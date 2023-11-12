@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **bytefixer/bytefixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![7d07a255678962d30d8717dcf5dbd266](https://github.com/bytefixer/bytefixer/assets/102484994/6f8dbf41-4527-4f04-ab84-44800f168103)
+

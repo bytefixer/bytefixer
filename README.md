@@ -3,7 +3,6 @@
 Estudante de Ciência da Computação - 4/8  
 Sempre estudando 🤓💻  
 
-![5d64524920aab46d406846526f24d7fa](https://github.com/bytefixer/bytefixer/assets/102484994/e51816d9-fb48-45d7-8646-587edfdc652c)
 
 ![Bytefixer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytefixer&theme=midnight-purple&show_icons=true)
 

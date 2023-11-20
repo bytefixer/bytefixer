@@ -5,10 +5,9 @@ Estudante de Ciência da Computação - 4/8
 Sempre estudando 🤓💻  
 
 
->![93f04b4b1103cc4e6410bb4f831acb6c](https://github.com/bytefixer/bytefixer/assets/102484994/5c5c3eb6-d568-47e3-9f70-28a1977933f8)
+![93f04b4b1103cc4e6410bb4f831acb6c](https://github.com/bytefixer/bytefixer/assets/102484994/5c5c3eb6-d568-47e3-9f70-28a1977933f8)
 
-
-![Bytefixer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytefixer&theme=midnight-purple&show_icons=true)
+![Bytefixer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytefixer&theme=midnight-purple&show_icons=true)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bytefixer&theme=buefy-dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

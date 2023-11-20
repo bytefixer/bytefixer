@@ -6,7 +6,6 @@ Sempre estudando 🤓💻
 ![5d64524920aab46d406846526f24d7fa](https://github.com/bytefixer/bytefixer/assets/102484994/e51816d9-fb48-45d7-8646-587edfdc652c)
 
 ![Bytefixer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytefixer&theme=midnight-purple&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bytefixer&theme=buefy-dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

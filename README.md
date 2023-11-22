@@ -3,8 +3,7 @@
 Estudante de Ciência da Computação - 4/8  
 Sempre estudando 🤓💻  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bytefixer&theme=midnight-purple&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bytefixer&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<img src="https://camo.githubusercontent.com/902e324e8867af5b53905e1786c5076a310e90c2ced3f6ce96cc08b82f260881/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d627974656669786572267468656d653d6d69646e696768742d707572706c652662675f636f6c6f723d30303026626f726465725f636f6c6f723d3330413344432673686f775f69636f6e733d747275652669636f6e5f636f6c6f723d333041334443267469746c655f636f6c6f723d45393444354626746578745f636f6c6f723d464646" data-canonical-src="https://github-readme-stats.vercel.app/api?username=bytefixer&theme=midnight-purple&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" style="max-width: 100%;"></a>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

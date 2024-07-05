@@ -1,6 +1,6 @@
 <h2>Hey Hey ❣️</h2>
 
-Estudante de Ciência da Computação - 5/8 💻  
+Estudante de Ciência da Computação - 6/8 💻  
 
 
 <p align="center">
